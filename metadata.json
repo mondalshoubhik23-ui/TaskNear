@@ -1,0 +1,6 @@
+{
+  "name": "TaskHop - Hyperlocal Errand & Task Marketplace",
+  "description": "Hyperlocal micro-task and errand marketplace connecting students and local communities for quick delivery, help, and gig earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
